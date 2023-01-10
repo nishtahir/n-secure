@@ -1,6 +1,6 @@
 # n-secure
 
-* Requirements
+## Requirements
 
 * Platform IO
 * ESP8266 Development platform
